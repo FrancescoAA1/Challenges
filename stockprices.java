@@ -85,7 +85,7 @@ public class stockprices {
                 }
             }
         } catch (Exception e) {
-
+            e.printStackTrace();
         }
     }
 
